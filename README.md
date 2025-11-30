@@ -19,3 +19,23 @@ Hi, I'm Simon Khainga — a data analyst and technical storyteller. I specialize
 - [COVID Data Exploration in SQL](https://github.com/Uchiha-k/Data-Exploration-using-MS-SQL)  
   Explored global COVID trends using SQL Server queries and visual summaries.
   I'm actively exploring opportunities in data analysis, pricing, and technical storytelling. Open to remote or relocation roles. I thrive in environments that value curiosity, iteration, and stakeholder impact.
+
+  SEO README
+  # SEO Setup for Simon Khainga Portfolio
+
+## Meta Tags
+- Title: "Simon Khainga Portfolio"
+- Description: "Data Analyst Portfolio. Predictive modeling, dashboards, and more."
+- Keywords: "Simon Khainga, data analyst, Python, SQL, Tableau"
+
+## Verification
+- Google Search Console: Verified via HTML meta tag
+
+## Sitemap
+- Added sitemap.xml with homepage, projects, about, contact
+
+## Robots.txt
+- Allow all crawlers, no disallow rules
+
+## Canonical
+- <link rel="canonical" href="https://simon-khainga-portfolio.vercel.app">
